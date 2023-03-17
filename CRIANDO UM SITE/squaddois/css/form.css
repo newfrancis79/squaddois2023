@@ -1,0 +1,21 @@
+.panel-form {
+
+	margin-top: 32px;
+}
+
+.panel-form .title {
+	font-size: 32px;
+	color: #1D1D26;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+form label, form legend {
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+.button-place {
+	text-align: center;
+}
